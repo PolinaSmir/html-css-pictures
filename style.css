@@ -1,0 +1,15 @@
+img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.dog {
+  object-position: -5px;
+}
+.flower {
+  object-position: 90%;
+}
+.model {
+  object-position: 0px 0px;
+}
