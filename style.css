@@ -1,8 +1,9 @@
 img {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   border-radius: 50%;
   object-fit: cover;
+  margin: 10px 100px;
 }
 .dog {
   object-position: -5px;
@@ -12,4 +13,21 @@ img {
 }
 .model {
   object-position: 0px 0px;
+}
+#div {
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+}
+h2 {
+  text-align: center;
+}
+.h3 {
+  display: inline;
+}
+.inline {
+  width: 150px;
+}
+#projects {
+  display: inline;
 }
